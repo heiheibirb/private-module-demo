@@ -1,4 +1,4 @@
-# S3 WebApp that launchs a cool game
+# S3 WebApp that launchs a cool game (involves blocks)
 
 
 Variables that will need to be set:
