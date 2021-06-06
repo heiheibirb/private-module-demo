@@ -1,3 +1,8 @@
-# Learn Private Module Registry
+# S3 WebApp that launchs a cool game
 
-The companion repository for the [Learn guide](https://learn.hashicorp.com/terraform/modules/private-modules) on using the private module registry in Terraform Cloud.
+
+Variables that will need to be set:
+
+variable "region"
+variable "prefix"
+variable "name"
